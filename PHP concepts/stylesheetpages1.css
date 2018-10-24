@@ -1,0 +1,29 @@
+div.container {
+   width:100%;
+    border: 1px solid gray;
+}
+
+h1 {
+	color:black;
+    text-align: center;
+    padding: 20px;
+  font-size: 40px;
+     }
+
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+    border-left: 1px solid #701C1C;
+    border-right: 1px solid #701C1C;
+    padding: 1em;
+    overflow: hidden;
+    color:black;
+    background-color: #BDF3A5;
+
+}
+
+article {
+    background-color: #16CE56;
+    align-content: center;
+}
+
